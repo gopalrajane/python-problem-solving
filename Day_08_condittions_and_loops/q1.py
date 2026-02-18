@@ -24,3 +24,5 @@ if num == 1:
 else:
     print(f'{N},is not a happy number.')
 
+
+
