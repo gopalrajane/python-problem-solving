@@ -2,12 +2,15 @@
 
 num_list = []
 
+
 N_number = int(input("Enter number : "))
+
 
 print('Enter numbers : ')
 for i in range(N_number):
     num = int(input())
     num_list.append(num)
+
 
 new_list = []
 for i in num_list:
